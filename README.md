@@ -4,12 +4,12 @@ An AI-powered local code reviewer for pull requests. Get instant, intelligent fe
 
 ## Features
 
-- 🤖 AI-Powered Analysis: Leverages advanced language models for code review
-- 🔍 Pull Request Analysis: Examines changes, context, and potential impacts
-- 📊 Code Quality Metrics: Tracks code quality, complexity, and best practices
-- 🚀 Local Processing: Reviews code locally before pushing to remote
-- 🛠 Customizable Rules: Define custom review rules and preferences
-- 📝 Detailed Reports: Generate comprehensive review reports
+- AI-Powered Analysis: Leverages advanced language models for code review
+- Pull Request Analysis: Examines changes, context, and potential impacts
+- Code Quality Metrics: Tracks code quality, complexity, and best practices
+- Local Processing: Reviews code locally before pushing to remote
+- Customizable Rules: Define custom review rules and preferences
+- Detailed Reports: Generate comprehensive review reports
 
 ## Installation
 
